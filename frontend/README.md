@@ -77,7 +77,6 @@ cd frontend
 npm install
 
 
-Update the frontend API URL (if needed) in your config file (e.g., src/config.js):
 
 const API_URL = "http://localhost:5000/api";
 export default API_URL;
@@ -137,15 +136,7 @@ Ensure your backend .env variables are set in your hosting provider (Render/Hero
 ![Profile Settings](./screenshots/Screenshot%202025-09-30%20012721.png)
 
 
-🚀 Future Improvements
 
-Add user profile with avatars
-
-Task categories & due dates
-
-Share tasks with other users (collaboration)
-
-Dark mode
 
 👨‍💻 Author
 
